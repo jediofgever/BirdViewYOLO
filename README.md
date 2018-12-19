@@ -1,6 +1,8 @@
 # Complex YOLO 
 
-a PyTorch implementation of the [Complex YOLO](https://arxiv.org/pdf/1803.06199.pdf) model with uncertainty for object detection in 3D.  
+a PyTorch implementation of the [Complex YOLO](https://arxiv.org/pdf/1803.06199.pdf) model with uncertainty for object detection in 3D. 
+
+Note: This Repository has been builded on existing code provided by repos in referencees. Please refer to them for details. 
 
 # Referencees
 
